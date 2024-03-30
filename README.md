@@ -2,15 +2,6 @@
 [![crates.io](https://img.shields.io/crates/v/luac-parser.svg)](https://crates.io/crates/luac-parser)
 [![docs.rs](https://docs.rs/luac-parser/badge.svg)](https://docs.rs/luac-parser)
 
-# luac-parser (中文)
-
-lua字节码解析器, 目前支持 lua51, lua52, lua53, lua54, luajit, luau
-
-这是目前效果最好的lua反编译器 [metaworm's luadec](http://luadec.metaworm.site) 的一部分
-
-可以基于此代码定制你所需的lua字节码解析器，编译成WASM，让[metaworm's luadec][luadec]加载使用，来反编译非官方的lua字节码
-
-得益于[nom][nom]库的灵活性，编写定制的解析器是很简单的一件事情，可以看[这篇文章][write-parser]了解如何编写
 
 # luac-parser (in English)
 
